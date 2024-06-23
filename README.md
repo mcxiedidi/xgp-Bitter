@@ -17,8 +17,6 @@
   <p align="center">
     项目简介
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>浏览文档 »</strong></a>
-    <br />
     <br />
     <a href="https://github.com/github_username/repo_name">查看 Demo</a>
     ·
