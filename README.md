@@ -18,10 +18,6 @@
     项目简介
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">查看 Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">反馈 Bug</a>
-    ·
     <a href="https://github.com/github_username/repo_name/issues">请求新功能</a>
   </p>
 </div>
@@ -46,8 +42,6 @@
       </ul>
     </li>
     <li><a href="#使用方法">使用方法</a></li>
-    <li><a href="#路线图">路线图</a></li>
-    <li><a href="#贡献">贡献</a></li>
     <li><a href="#许可证">许可证</a></li>
     <li><a href="#联系我们">联系我们</a></li>
     <li><a href="#致谢">致谢</a></li>
@@ -59,9 +53,7 @@
 <!-- 关于本项目 -->
 ## 关于本项目
 
-[![产品截图][product-screenshot]](https://example.com)
-
-这是一个用于快速开始的空白模板：为了避免重复输入太多信息，请使用你的文本编辑器查找替换下面的内容：`github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `项目标题`, `项目简介`
+AutoXgp是一款专为自动刷取XGP制作 代码主要部分为Python支撑
 
 <p align="right">(<a href="#top">回到顶部</a>)</p>
 
@@ -69,14 +61,7 @@
 
 ### 构建工具
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Python](https://python.org/)
 
 <p align="right">(<a href="#top">回到顶部</a>)</p>
 
