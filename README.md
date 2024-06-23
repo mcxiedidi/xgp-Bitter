@@ -16,7 +16,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">项目标题</h3>
+<h3 align="center">AutoXgp</h3>
 
   <p align="center">
     项目简介
